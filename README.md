@@ -1,2 +1,2 @@
-# ai-notebook
+# ai-notebooks
 
